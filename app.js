@@ -2,4 +2,4 @@ function add(a, b) {
 return a+b
 }
 
-console.log(add(2, 3))
+console.log('La suma de ', a, ' mas ', b, ' es igual a =',add(50, 50))
